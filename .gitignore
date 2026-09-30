@@ -17,6 +17,7 @@ node_modules/
 !.env.example
 
 # Temporary and cache files
+scratch/
 .DS_Store
 Thumbs.db
 *.log
